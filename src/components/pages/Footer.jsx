@@ -10,7 +10,7 @@ function Footer() {
                 alt='GitHub'
             >GitHub</a>
             <a
-                href='https://github.com/Deiontre10'
+                href='https://www.linkedin.com/in/travontazlowry/'
                 id='LinkedIn'
                 alt='LinkedIn'
             >LinkedIn</a>
