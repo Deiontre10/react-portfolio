@@ -3,16 +3,21 @@ import React from 'react';
 
 function Footer() {
     return (
-        <footer>
+        <footer className=''>
             <a
+                className='footer-link mx-2'
                 href='https://github.com/Deiontre10'
                 id='GitHub'
                 alt='GitHub'
+                target={'_blank'}
             >GitHub</a>
+
             <a
+            className='footer-link mx-2'
                 href='https://www.linkedin.com/in/travontazlowry/'
                 id='LinkedIn'
                 alt='LinkedIn'
+                target={'_blank'}
             >LinkedIn</a>
         </footer>
     )
