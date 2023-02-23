@@ -1,5 +1,21 @@
-import React from 'react'
+import React from 'react';
+// import { AiFillGitHub } from 'react-icons/ai';
 
-export default function Footer() {
-    return
-}
+function Footer() {
+    return (
+        <footer>
+            <a
+                href='https://github.com/Deiontre10'
+                id='GitHub'
+                alt='GitHub'
+            >GitHub</a>
+            <a
+                href='https://github.com/Deiontre10'
+                id='LinkedIn'
+                alt='LinkedIn'
+            >LinkedIn</a>
+        </footer>
+    )
+};
+
+export default Footer;
