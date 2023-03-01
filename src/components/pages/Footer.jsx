@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className=''>
             <a
-                className='footer-link mx-2'
+                className='btn btn-primary m-1'
                 href='https://github.com/Deiontre10'
                 id='GitHub'
                 alt='GitHub'
@@ -13,7 +13,7 @@ function Footer() {
             >GitHub</a>
 
             <a
-            className='footer-link mx-2'
+            className='btn btn-primary m-1'
                 href='https://www.linkedin.com/in/travontazlowry/'
                 id='LinkedIn'
                 alt='LinkedIn'
