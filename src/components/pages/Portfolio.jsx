@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
 import Project from './ProjectCard';
+import sellout from '../../images/sellout.png';
 
 const projects = [
     {
         id: 0,
         title: 'Sellout',
-        image: 'http://via.placeholder.com/640x360',
+        image: sellout,
         repo: 'https://github.com/ZoeRorvig/market-application',
         deployed: 'https://dry-tor-88754.herokuapp.com/',
     },
