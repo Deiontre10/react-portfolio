@@ -57,7 +57,7 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Full Name"
-                    className='inputArea'
+                    className='form-control my-2'
                 />
                 <input
                     value={email}
@@ -66,7 +66,7 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Email"
-                    className='inputArea'
+                    className='form-control my-2'
                 />
                 <textarea
                     value={message}
@@ -75,9 +75,9 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Message"
-                    className='inputArea'
+                    className='form-control my-2'
                 />
-                <button type="button" onClick={handleFormSubmit}>
+                <button type="button" className='btn btn-primary my-2' onClick={handleFormSubmit}>
                     Submit
                 </button>
             </form>
