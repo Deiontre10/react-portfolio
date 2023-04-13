@@ -1,7 +1,8 @@
 # react-portfolio
 
-[Link to my project](https://github.com/Deiontre10/react-portfolio)
-[Link to deployed site]()
+[Link to my project](https://github.com/Deiontre10/react-portfolio)  
+
+[Link to deployed site](https://deiontre10.github.io/react-portfolio/)
 
 ## Table of Contents
 - [Description](#description)
@@ -14,13 +15,13 @@
 ## Visuals
 
 About:  
-![About]( "About me")
+![About](images/about.png "About me")
 
 Portfolio:  
-![Portfolio]( "A list of my projects")
+![Portfolio](images/projects.png "A list of my projects")
 
 Contact:  
-![Contact]( "A method to get in contact with me")
+![Contact](images/contact.png "A method to get in contact with me")
 
 Resume:  
-![Resume]( "A link to my resume")
+![Resume](images/resume.png "A link to my resume")
